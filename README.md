@@ -12,7 +12,7 @@ english:
 
   
 
-`git clone https://github.com/badafans/v2ray-cloudfoundry.git`
+`git clone https://github.com/Oops1L0wy/v2ray-cloudfoundry.git`
 
 `cd v2ray-cloudfoundry/v2ray`
 
